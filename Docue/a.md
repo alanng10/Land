@@ -8,7 +8,7 @@ Land has park value.
 
 Land has park benefit.
 
-Land has park marry. 
+Land has park marry.
 
 Land has park arch.
 
