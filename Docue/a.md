@@ -39,3 +39,5 @@ Land has park kind arch value.
 Land has park kind arch benefit.
 
 Land has park kind arch marry.
+
+Land has major.
